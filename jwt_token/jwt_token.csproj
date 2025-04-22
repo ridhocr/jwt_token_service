@@ -8,7 +8,7 @@
     <!-- Bagian NuGet Metadata -->
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>1.0.0</Version>
-    <PackageId>JwtTokenCr</PackageId>
+    <PackageId>ridhocrcompany.JwtTokenHelper</PackageId>
     <Authors>Ridhocr</Authors>
     <Company>Ridhocrcompany</Company>
     <Description>Package Untuk JWT Token</Description>
